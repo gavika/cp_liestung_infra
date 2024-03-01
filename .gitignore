@@ -33,3 +33,6 @@ terraform.rc
 
 # Ignore .git directory
 .git/
+
+#ignore .git
+*.gitignore
